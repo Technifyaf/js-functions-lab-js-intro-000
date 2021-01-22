@@ -1,4 +1,4 @@
 // write your code below!
 happyHolidays(){
-  return "Happy holidays"
+  return "Happy holidays!"
 }
