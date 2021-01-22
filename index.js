@@ -2,5 +2,3 @@
 happyHolidays(){
   return "Happy holidays"
 }
-
-
